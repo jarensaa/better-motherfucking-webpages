@@ -7,6 +7,4 @@ Whenever you meet a textfull webpage without any styling, for example RFC-pages.
 
 ## Extensions
 
-### Firefox
-
-[Download here](https://addons.mozilla.org/en-US/firefox/addon/better-motherfucking-webpages/)
+[Firefox download](https://addons.mozilla.org/en-US/firefox/addon/better-motherfucking-webpages/)
