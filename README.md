@@ -1,8 +1,9 @@
 # Better motherfucking webpages
 
-Inspired by: http://bettermotherfuckingwebsite.com/
+A set of extensions which turn hard to read, pure HTML webpages into easy-to-read masterpieces. Inspired by: http://bettermotherfuckingwebsite.com/
 
-A set of extensions which turn hard to read, pure HTML webpages into easy-to-read masterpieces.
+## When to use
+Whenever you meet a textfull webpage without any styling, for example RFC-pages.
 
 ## Extensions
 
